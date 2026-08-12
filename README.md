@@ -66,7 +66,7 @@ I'm a developer passionate about building intelligent development tools and AI a
       <br><sub><b>Jupyter</b></sub>
     </td>
     <td align="center" width="110">
-      <img src="https://img.icons8.com/?size=100&id=90D3ArUTQnLP&format=png" width="45" height="45" alt="Claude"/>
+      <img src="https://cdn.simpleicons.org/claude" width="45" height="45" alt="Claude"/>
       <br><sub><b>Claude API</b></sub>
     </td>
   </tr>
@@ -80,19 +80,17 @@ I'm a developer passionate about building intelligent development tools and AI a
 
 | Project | Description | Tech |
 |---------|-------------|------|
+| **[cc-tree](https://github.com/skymanbp/cc-tree)** ![Stars](https://img.shields.io/github/stars/skymanbp/cc-tree?style=flat&color=yellow&label=%E2%AD%90) | Universal radial-tree exploration engine for divergent ideation and design-space exploration | Python |
 | **[cc-enslaver](https://github.com/skymanbp/cc-enslaver)** | Claude Code plugin enforcing systematic thinking, verified citations, and root-cause analysis | Python |
 | **[cc-memory](https://github.com/skymanbp/cc-memory)** | Persistent memory plugin with automatic save/restore via SQLite + lifecycle hooks | Python |
-| **[cc-tree](https://github.com/skymanbp/cc-tree)** | Universal radial-tree exploration engine for divergent ideation and design-space exploration | Python |
 | **[sci-paper](https://github.com/skymanbp/sci-paper)** | Scientific paper writing & review plugin with anti-AI enforcement and source traceability | Python |
-| **[career-ops](https://github.com/skymanbp/career-ops)** | AI-powered job search system with 14 skill modes, Go dashboard, batch processing | JavaScript/Go |
 
 ### 💎 Production Tools
 
 | Project | Description | Tech |
 |---------|-------------|------|
-| **[autoshop](https://github.com/skymanbp/autoshop)** | AI-assisted RAW photo editing (EditRecipe + deterministic Rust render, XMP sidecar, denoise) | Rust |
-| **[MarkVue](https://github.com/skymanbp/MarkVue)** | Fast, beautiful local Markdown editor & previewer, zero dependencies | HTML/JavaScript |
-| **[H5Lens](https://github.com/skymanbp/H5Lens)** | Local tool for reading .h5/.hdf5 files with beautiful UI | HTML |
+| **[autoshop](https://github.com/skymanbp/autoshop)** ![Stars](https://img.shields.io/github/stars/skymanbp/autoshop?style=flat&color=yellow&label=%E2%AD%90) | AI-assisted RAW photo editing (EditRecipe + deterministic Rust render, XMP sidecar, denoise) | Rust |
+| **[H5Lens](https://github.com/skymanbp/H5Lens)** | Local viewer for .h5/.hdf5 files with a clean, friendly UI | HTML |
 
 ### 🔬 Research & Science
 
@@ -106,13 +104,13 @@ I'm a developer passionate about building intelligent development tools and AI a
 
 ## 📊 Skills Breakdown
 
-```
-Python              ████████████████░░ 90%
-Rust                ████████████░░░░░░ 75%
-TypeScript/JavaScript ██████████░░░░░░░ 70%
-Go                  ████████░░░░░░░░░░ 55%
-R                   ██████░░░░░░░░░░░░ 45%
-Scientific Computing ██████████░░░░░░░░ 65%
+```text
+Python                 ██████████████████░░  90%
+Rust                   ███████████████░░░░░  75%
+TypeScript/JavaScript  ██████████████░░░░░░  70%
+Scientific Computing   █████████████░░░░░░░  65%
+Go                     ███████████░░░░░░░░░  55%
+R                      █████████░░░░░░░░░░░  45%
 ```
 
 ---
@@ -144,7 +142,7 @@ I believe in:
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=skymanbp&theme=tokyonight&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=skymanbp&layout=compact&theme=tokyonight&hide_border=true)
+![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=skymanbp&theme=tokyonight)
 
 ---
 
