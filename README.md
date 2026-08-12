@@ -102,19 +102,6 @@ I'm a developer passionate about building intelligent development tools and AI a
 
 ---
 
-## 📊 Skills Breakdown
-
-```text
-Python                 ██████████████████░░  90%
-Rust                   ███████████████░░░░░  75%
-TypeScript/JavaScript  ██████████████░░░░░░  70%
-Scientific Computing   █████████████░░░░░░░  65%
-Go                     ███████████░░░░░░░░░  55%
-R                      █████████░░░░░░░░░░░  45%
-```
-
----
-
 ## 🎯 Key Expertise
 
 - **AI Integration**: Claude Code, LLM APIs, prompt engineering
