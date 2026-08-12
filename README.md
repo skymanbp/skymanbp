@@ -1,4 +1,4 @@
-# Hi, I'm skymanbp 👋
+# Hi, I'm Zhe Zhang 👋
 
 Developer-tools builder · full-stack engineer · computational-physics background.
 
@@ -38,7 +38,7 @@ Also: Claude API / LLM integration, Jupyter, npm.
 |---------|-------------|
 | [multi-core-fiber-splice-alignment](https://github.com/skymanbp/multi-core-fiber-splice-alignment) | Multi-core fiber alignment analysis (Jupyter) |
 | [splice-loss-model](https://github.com/skymanbp/splice-loss-model) | Optical fiber splice loss modeling (R) |
-| [EEC_01740950_Project_code](https://github.com/skymanbp/EEC_01740950_Project_code) | MSc research project in computational physics (R) |
+| [EEC_01740950_Project_code](https://github.com/skymanbp/EEC_01740950_Project_code) | MSc research project: bacterial responses to biocide chemicals and a potential biosensor strategy (R) |
 
 ## Stats
 
