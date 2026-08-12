@@ -42,10 +42,7 @@ Also: Claude API / LLM integration, Jupyter, npm.
 
 ## Stats
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=skymanbp&theme=dark&hide_border=true">
-  <img alt="GitHub streak" src="https://streak-stats.demolab.com?user=skymanbp&hide_border=true">
-</picture>
+![Contribution graph](https://ghchart.rshah.org/skymanbp)
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=skymanbp&theme=github_dark">
