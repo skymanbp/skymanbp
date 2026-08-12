@@ -1,10 +1,10 @@
-# Hi, I'm Zhe Zhang 👋
+# Zhe Zhang...
 
 Developer-tools builder · full-stack engineer · computational-physics background.
 
 I build Claude Code plugins and local-first developer tools, with a focus on
 systematic thinking, persistent memory, and reproducible workflows. Before
-that: research in computational physics and optical systems.
+that: research in computational (Astro)physics and optical systems.
 
 ## Languages & tools
 
