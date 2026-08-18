@@ -38,7 +38,7 @@ all of that: environmental science.
 ## Languages & tools
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,r,rust,ts,js,go,haskell,sqlite,git" alt="Python, R, Rust, TypeScript, JavaScript, Go, Haskell, SQLite, Git" />
+  <img src="https://skillicons.dev/icons?i=python,r,rust,ts,js,go,haskell,lua,sqlite,git" alt="Python, R, Rust, TypeScript, JavaScript, Go, Haskell, Lua, SQLite, Git" />
 </p>
 
 Plus SQL, Jupyter, and LLM integration via the Claude API.
