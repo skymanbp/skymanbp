@@ -33,7 +33,7 @@ all of that: environmental science.
 | Project | Description |
 |---------|-------------|
 | [multi-core-fiber-splice-alignment](https://github.com/skymanbp/multi-core-fiber-splice-alignment) | Rotational-alignment angle computation from scan images for multi-core optical-fiber splicing (Python, Jupyter) |
-| [splice-loss-model](https://github.com/skymanbp/splice-loss-model) | Linear mixed-effects (lme4) modeling of optical-fiber splice loss from core-geometry features (R) |
+| [splice-loss-model](https://github.com/skymanbp/splice-loss-model) | GLMM (lme4::glmer, Gamma family) modeling of optical-fiber splice loss from core-geometry features (R) |
 
 ## Languages & tools
 
