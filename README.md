@@ -16,7 +16,7 @@ all of that: environmental science.
 | Project | Description |
 |---------|-------------|
 | [cc-tree](https://github.com/skymanbp/cc-tree) ![cc-tree stars](https://img.shields.io/github/stars/skymanbp/cc-tree?style=social) | Radial-tree exploration engine with swappable presets (brainstorm / attack / design / code-audit) for divergent ideation and adversarial critique |
-| [cc-enslaver](https://github.com/skymanbp/cc-enslaver) | Hooks that enforce rigor at the tool layer — denying unread-file edits, blocking premature "done" claims; also an LLM-agnostic rule pack |
+| [cc-enforcer](https://github.com/skymanbp/cc-enforcer) | Hooks that enforce rigor at the tool layer — denying unread-file edits, blocking premature "done" claims; also an LLM-agnostic rule pack |
 | [cc-memory](https://github.com/skymanbp/cc-memory) | Persistent memory that survives compaction and session boundaries — LLM-driven extraction, FTS5 search, MCP tools; pure stdlib Python |
 | [sci-paper](https://github.com/skymanbp/sci-paper) | Scientific paper writing and review — calibrated AI-text detection (≤ 5% false-flag guarantee), source-traced claims, de-AI rewriting |
 
