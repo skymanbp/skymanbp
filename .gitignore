@@ -1,3 +1,5 @@
 # Claude Code plugin session state (not profile content)
 .ce/
 memory/
+# cc-enforcer index / cc-memory state: machine-local, never content
+.ccm/
