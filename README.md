@@ -51,4 +51,4 @@ the work it claims to have finished.
 
 [zhezhang.me](https://www.zhezhang.me) · [LinkedIn](https://www.linkedin.com/in/zhe-zhang-ds)
 
-Open to collaboration on AI tooling and scientific computing — an issue on any repo above is the fastest way to reach me.
+Open to collaboration on AI tooling and scientific computing — an issue on any of the non-fork repos above is the fastest way to reach me.
