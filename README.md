@@ -2,7 +2,10 @@
 
 Astrophysicist · AI/ML Engineer
 
-Researcher in cosmology (focus gravitational lensing) &
+Researcher in cosmology (focus gravitational lensing) 
+
+&
+
 AI/ML Engineer (Well, you don't always find an Astro-job...)
 
 <p>
