@@ -2,11 +2,9 @@
 
 Astrophysicist · AI/ML Engineer
 
-Researcher in cosmology (focus gravitational lensing) 
+Researcher in cosmology/Astronomy & AI/ML Engineer
 
-&
-
-AI/ML Engineer (Well, you don't always find an Astro-job...)
+Well, you don't always find an Astro-job...
 
 <p>
   <img src="https://skillicons.dev/icons?i=python,r,rust,ts,haskell,lua,sqlite,git" alt="Python, R, Rust, TypeScript, Haskell, Lua, SQLite, Git" />
