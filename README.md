@@ -2,7 +2,7 @@
 
 Astrophysicist · AI/ML Engineer
 
-Researcher in cosmology/Astronomy & AI/ML Engineer
+Researcher in Cosmology/Astronomy & AI/ML Engineer
 
 Well, you don't always find an Astro-job...
 
