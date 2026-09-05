@@ -1,4 +1,4 @@
-# Researcher in Cosmology/Astronomy · AI/ML Engineer
+# Astrophysics Researcher · AI/ML Engineer
 
 Well, you don't always find an Astro-job...
 
