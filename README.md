@@ -1,6 +1,6 @@
 # Astrophysics Researcher · AI/ML Engineer
 
-Well, you don't always find an Astro-job...
+Well, sometimes a photographer too...
 
 <p>
   <img src="https://skillicons.dev/icons?i=python,r,rust,ts,haskell,lua,sqlite,git" alt="Python, R, Rust, TypeScript, Haskell, Lua, SQLite, Git" />
